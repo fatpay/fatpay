@@ -1,5 +1,6 @@
 (function($) {
 
+
 // prettyPhoto
 	jQuery(document).ready(function(){
 		jQuery('a[data-gal]').each(function() {

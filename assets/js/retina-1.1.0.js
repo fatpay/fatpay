@@ -7,6 +7,8 @@
  * Retina.js is an open source script that makes it easy to serve
  * high-resolution images to devices with retina displays.
  */
+
+
 (function() {
 
   var root = (typeof exports == 'undefined' ? window : exports);
